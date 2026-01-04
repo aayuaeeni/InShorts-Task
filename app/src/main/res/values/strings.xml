@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InShorts Task</string>
+    <string name="want_to_do_some_fun">Want to do some fun !!</string>
+    <string name="let_s_play">Let\'s Play</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search_movies">Search movies...</string>
+    <string name="cast_member">Cast Member</string>
+    <string name="cast">Cast</string>
+</resources>
